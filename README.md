@@ -1,6 +1,6 @@
 # Shuffle
 
-A desktop music player application to test out different kinds of Shuffles.
+Creating a music player to experiment with shuffling algorithms, due to shuffle playing certain songs more than others.
 
 Using:
 
